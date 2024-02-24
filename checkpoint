@@ -1,0 +1,2 @@
+model_checkpoint_path: "Chest CT-Scan images Dataset"
+all_model_checkpoint_paths: "Chest CT-Scan images Dataset"
